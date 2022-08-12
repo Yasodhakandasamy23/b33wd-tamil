@@ -54,7 +54,7 @@ function Msg({name,pic}) {
      <tr className="tr">      
       <td>    
       <img className="profile" src={pic} alt={name} />
-    <h1>Hi,{name}👨‍🦱👨‍🦱👨🧡❣💥💟</h1>        
+    <h1>Welcome✋,{name}🧡💥💟</h1>        
       <Counter/>
       </td>
       </tr>          

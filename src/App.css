@@ -30,9 +30,10 @@ font-size: 1.5rem;
 .table{
   border-radius: 50px;
   margin: 10px;
-  background-color: blue;
-  height: 190px;
-  width:190px;
+  background-color:aqua;
+  height: 300px;
+  width:300px;
+  
 }
 .tr{
 border: blueviolet;
